@@ -749,7 +749,7 @@ Returns `204 No Content` on success.
 
 ### `POST /:account_slug/cards/:card_number/triage`
 
-Moves a card from triage into a column.
+Moves a card into a column.
 
 | Parameter | Type | Required | Description |
 |-----------|------|----------|-------------|
